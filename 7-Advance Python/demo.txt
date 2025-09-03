@@ -1,0 +1,3 @@
+Line 1: Generators are memory efficient
+Line 2: Useful for big data & streams
+Line 3: End of File
