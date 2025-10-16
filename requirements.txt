@@ -3,3 +3,4 @@ ipykernel
 numpy
 bs4
 flask
+streamlit
