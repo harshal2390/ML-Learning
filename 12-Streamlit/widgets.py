@@ -9,6 +9,7 @@ name=st.text_input("Enter your name:")
 age=st.slider("Select your age:",0,100,25)
 
 st.write(f"Your age is {age}.")
+st.balloons()
 
 options = ["Python", "Java", "C++", "JavaScript"]
 choice = st.selectbox("Choose your favorite language:", options)
